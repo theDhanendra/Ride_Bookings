@@ -18,26 +18,27 @@ Welcome to the OLA Data Analyst Project! This project demonstrates a complete da
 
 # 📊 Power BI Dashboard
 Here’s a preview of the Power BI dashboard used in this project:
-**1. Overall Analysis 📋**
-- Total bookings, revenue trends, and cancellation patterns.
-**2. Vehicle Analysis 🚗**
-- Popular vehicles, average ride distances, and vehicle-specific ratings.
-**3. Revenue Analysis 💸**
-- Revenue trends by location, time, and vehicle type.
-**4. Cancellation Analysis 🛑**
-- Reasons for cancellations by customers and drivers.
-**5. Ratings Analysis 🌟**
-- Distribution and trends in customer and driver ratings.
+
+**1. Overall Analysis 📋:** Total bookings, revenue trends, and cancellation patterns.
+
+**2. Vehicle Analysis 🚗:** Popular vehicles, average ride distances, and vehicle-specific ratings.
+
+**3. Revenue Analysis 💸:** Revenue trends by location, time, and vehicle type.
+
+**4. Cancellation Analysis 🛑:** Reasons for cancellations by customers and drivers.
+
+**5. Ratings Analysis 🌟:** Distribution and trends in customer and driver ratings.
+
 
 
 # 📜 How to Use This Project
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/OLA-Data-Analyst-Ride_Booking.git
+git clone https://github.com/theDhanendra/Ride_Bookings.git
 ```
 **2. Navigate to the project folder:**
 ```bash
-cd OLA-Data-Analyst-Project
+cd Ride_Bookings
 ```
 **3. SQL:**
 - Open "ola_analysis.sql" in any SQL editor (e.g., MySQL Workbench).
